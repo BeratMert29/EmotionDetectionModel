@@ -1,0 +1,1 @@
+This project implements an Emotion Detection Model using Convolutional Neural Networks (CNNs) to classify emotions from image data. The model aims to detect emotions such as happiness, sadness, anger, fear, and surprise in facial images. The CNN architecture is trained to recognize patterns in facial expressions and predict the corresponding emotion.
